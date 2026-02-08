@@ -24,7 +24,7 @@ const LOG_LEVEL = process.env.LOG_LEVEL || "info";
 
 const PROMPT_TEXT =
   process.env.PROMPT_TEXT ||
-  "Drop a Base address (0x...) for today's 0.1 USDC tip. One entry per address. Winner picked automatically in ~24h.";
+  "Drop a Base address (0x...) for today's USDC tip. One entry per address. Winner picked automatically in 12 hours.";
 
 const RESULT_TEXT_TEMPLATE =
   process.env.RESULT_TEXT_TEMPLATE ||
