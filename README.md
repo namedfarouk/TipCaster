@@ -1,4 +1,4 @@
-# Base USDC Tip Bot (Farcaster)
+# Base USDC Tip Bot
 
 Autonomous Openclaw Base agent that posts a daily prompt, picks a random reply containing a Base address, and sends 0.1 USDC on Base. No human in the loop.
 
